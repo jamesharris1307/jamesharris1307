@@ -41,33 +41,17 @@ Status-Completed-blue? | Completed = Fully developed and stable, no active devel
 -->
 ### 🌟 Featured Projects 🌟
 
-<div style="width: 100%; background-color: #ddd;">
-  <div style="width: 70%; height: 20px; background-color: #4caf50;"></div>
-</div>
-
-<!--
-#### 1. [Project Name 1](https://github.com/yourusername/project-name)
-- A brief description of what this project is about.
-- Tech stack used: Java, MongoDB, HTML, CSS.
+#### 1. [Monogame-2D-Chess](https://github.com/jamesharris1307/Monogame-2D-Chess)
+- This project is a 2D chess game featuring animated sprites to represent the chess pieces where the user plays against an AI opponent that offers different levels of difficulty.
 
 [![Project 1](https://img.shields.io/badge/Project%20Status-In%20Progress-yellow?style=flat-square)](https://github.com/jamesharris1307/project-name)
 
 ---
 
-#### 2. [Project Name 2](https://github.com/yourusername/project-name)
-- A brief description of this project and what it accomplishes.
-- Tech stack used: C#, .NET, SQL.
+#### 2. [Orbital-Dynamics-Simulator-Python](https://github.com/jamesharris1307/Orbital-Dynamics-Simulator-Python)
+- This project is a space simulation that focuses on calculating and visualizing orbital dynamics. It allows users to simulate and analyse the motion of celestial bodies within a theoretical environment. 
 
 [![Project 2](https://img.shields.io/badge/Project%20Status-In%20Progress-yellow?style=flat-square)](https://github.com/jamesharris1307/project-name)
-
----
-
-#### 3. [Project Name 3](https://github.com/yourusername/project-name)
-- A quick summary of this project and its impact or utility.
-- Tech stack used: JavaScript, React, Node.js.
-
-[![Project 3](https://img.shields.io/badge/Project%20Status-In%20Progress-yellow?style=flat-square)](https://github.com/jamesharris1307/project-name)
--->
 
 ---
 
