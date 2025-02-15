@@ -1,6 +1,5 @@
-![Unique Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JamesHarris&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Unique+Visitors&edge_flat=false)
-
-# Hi there! Welcome to my ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) page
+# Hi there! Welcome to my GitHub page
+<div align="center">
 
 ### My name is James Harris:
 
@@ -8,7 +7,7 @@
 
 I'm a **2nd-year Software Engineering student** at **Cardiff Metropolitan University**, passionate about **software development**. I'm currently exploring **C#, Java, JavaScript, and software engineering principles**.
 
-### 🔧 Technologies & Tools
+### 🔧 Technologies & Tools 🔧
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -18,24 +17,26 @@ I'm a **2nd-year Software Engineering student** at **Cardiff Metropolitan Univer
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats 📊
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesHarris&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesharris1307&layout=compact&theme=dark)
 
-### 🌟 Featured Projects
+### 🌟 Featured Projects 🌟
 
-- 🏹 **Minecraft Flintlock Mod** – A Forge-based mod introducing flintlock tools. *(Java, Minecraft Forge)*
-- 🗺️ **Campus Navigation System** – A web-based tool for students to navigate the university campus. *(JavaScript, MongoDB, Google Maps API)*
-- 🏡 **16th-Century Survival / Horror Game** – A top-down 2D monogame, game with hidden mechanics. *(C#)*
-- 🚀 **Space Simulation Software** – A theoretical space physics simulator for research purposes. *(TBD)*
 
-### 📫 Connect with Me
+
+### 📫 Connect with Me 📫
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-harris1307)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JamesHarris)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Email](https://img.shields.io/badge/jamesharris1307@outlook.com-blue?style=flat-square&logo=outlook)
+
 
 ---
 
 💡 *"<<Insert Something Here>>"* 🚀
+
+</div>
