@@ -1,4 +1,4 @@
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JamesHarris&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+![Unique Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JamesHarris&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Unique+Visitors&edge_flat=false)
 
 # Hi there! Welcome to my ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) page
 
