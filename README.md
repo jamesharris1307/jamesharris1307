@@ -1,5 +1,4 @@
 # Hi there! Welcome to my GitHub page
-<div align="center">
 
 ### My name is James Harris:
 
@@ -9,6 +8,7 @@ I'm a **2nd-year Software Engineering student** at **Cardiff Metropolitan Univer
 
 ### 🔧 Technologies & Tools 🔧
 
+<div align="center">
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,6 +21,7 @@ I'm a **2nd-year Software Engineering student** at **Cardiff Metropolitan Univer
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesHarris&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesharris1307&layout=compact&theme=dark)
+</div>
 
 ### 🌟 Featured Projects 🌟
 
@@ -39,4 +40,4 @@ I'm a **2nd-year Software Engineering student** at **Cardiff Metropolitan Univer
 
 💡 *"<<Insert Something Here>>"* 🚀
 
-</div>
+
