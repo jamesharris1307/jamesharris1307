@@ -41,7 +41,7 @@ Status-In%20Progress-yellow | In Progress = Still being developed, features are 
 Status-Completed-blue? | Completed = Fully developed and stable, no active development is needed, though updates may occur in the future for maintenance or new features.
 -->
 ### 🌟 Featured Projects 🌟
-
+<!--
 #### 1. [Monogame-2D-Chess](https://github.com/jamesharris1307/Monogame-2D-Chess)
 - This project is a 2D chess game featuring animated sprites to represent the chess pieces where the user plays against an AI opponent that offers different levels of difficulty.
 
@@ -53,7 +53,7 @@ Status-Completed-blue? | Completed = Fully developed and stable, no active devel
 - This project is a space simulation that focuses on calculating and visualizing orbital dynamics. It allows users to simulate and analyse the motion of celestial bodies within a theoretical environment. 
 
 [![Project 2](https://img.shields.io/badge/Project%20Status-In%20Progress-yellow?style=flat-square)](https://github.com/jamesharris1307/project-name)
-
+-->
 ---
 
 <div align="center">
