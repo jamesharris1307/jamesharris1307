@@ -42,6 +42,7 @@ Status-Completed-blue? | Completed = Fully developed and stable, no active devel
 -->
 ### 🌟 Featured Projects 🌟
 
+<!--
 #### 1. [Monogame-2D-Chess](https://github.com/jamesharris1307/Monogame-2D-Chess)
 - This project is a 2D chess game featuring animated sprites to represent the chess pieces where the user plays against an AI opponent that offers different levels of difficulty.
 
@@ -55,6 +56,8 @@ Status-Completed-blue? | Completed = Fully developed and stable, no active devel
 [![Project 2](https://img.shields.io/badge/Project%20Status-In%20Progress-yellow?style=flat-square)](https://github.com/jamesharris1307/project-name)
 
 ---
+
+-->
 
 <div align="center">
 
