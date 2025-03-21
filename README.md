@@ -8,9 +8,9 @@ to who I am.
 
 --- 
 
-<!--
+
 [![GitHub followers](https://img.shields.io/github/followers/jamesharris1307?label=Follow&style=social)](https://github.com/jamesharris1307)
--->
+
   
 ### 🔧 Technologies & Tools 🔧
 
