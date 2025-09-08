@@ -8,7 +8,7 @@ to who I am.
 ### 🚀 Software Engineering Student
 </div>
 
-### 🎓 Software Engineering student at **Cardiff Metropolitan University**, currently pursuing a **Bachelor of Science with Honours**.   Currently exploring **C++, Java, Python, Html, CSS and JavaScript**.
+### Software Engineering student at **Cardiff Metropolitan University**, currently pursuing a **Bachelor of Science with Honours**.   Currently exploring **C++, Java, Python, Html, CSS and JavaScript**.
 
 
 <div align="center">
