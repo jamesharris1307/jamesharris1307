@@ -8,7 +8,7 @@ to who I am.
 ### 🚀 Software Engineering Student
 </div>
 
-- I'm James Harris a **2nd-year Software Engineering student** at **Cardiff Metropolitan University**. Currently exploring **C#, Java, JavaScript and Python**.
+- ### I'm James Harris a **2nd-year Software Engineering student** at **Cardiff Metropolitan University**. Currently exploring **C#, Java, JavaScript and Python**.
 
 
 <div align="center">
