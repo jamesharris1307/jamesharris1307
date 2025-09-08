@@ -2,7 +2,7 @@
 Greeting the User and Brief Introduction
 to who I am.
 -->
-# Hello there! 👋
+# Hello there 👋
 ### 🚀 Software Engineering Student
 - I'm James Harris a **2nd-year Software Engineering student** at **Cardiff Metropolitan University**. Currently exploring **C#, Java, JavaScript and Python**.
 
@@ -43,17 +43,6 @@ Status-Completed-blue? | Completed = Fully developed and stable, no active devel
 ### 🌟 Featured Projects 🌟
 
 <!--
-#### 1. [Monogame-2D-Chess](https://github.com/jamesharris1307/Monogame-2D-Chess)
-- This project is a 2D chess game featuring animated sprites to represent the chess pieces where the user plays against an AI opponent that offers different levels of difficulty.
-
-[![Project 1](https://img.shields.io/badge/Project%20Status-In%20Progress-yellow?style=flat-square)](https://github.com/jamesharris1307/project-name)
-
----
-
-#### 2. [Orbital-Dynamics-Simulator-Python](https://github.com/jamesharris1307/Orbital-Dynamics-Simulator-Python)
-- This project is a space simulation that focuses on calculating and visualizing orbital dynamics. It allows users to simulate and analyse the motion of celestial bodies within a theoretical environment. 
-
-[![Project 2](https://img.shields.io/badge/Project%20Status-In%20Progress-yellow?style=flat-square)](https://github.com/jamesharris1307/project-name)
 
 ---
 
