@@ -1,3 +1,5 @@
+<div align="center">
+
 <!--
 Greeting the User and Brief Introduction
 to who I am.
@@ -48,7 +50,7 @@ Status-Completed-blue? | Completed = Fully developed and stable, no active devel
 
 -->
 
-<div align="center">
+
 
 ### 📫 Connect with Me 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-harris1307)
