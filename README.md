@@ -48,13 +48,13 @@ Status-Completed-blue? | Completed = Fully developed and stable, no active devel
 -->
 ### 🌟 Featured Projects 🌟
 
-**[Feistel Network Encryption](link-to-repo)**
+**[Feistel Network Encryption](https://github.com/jamesharris1307/Feistel-Encryption-Decryption-Cipher-C_Plus_Plus.git)**
 > A custom symmetric-key block cipher engine implemented in C++, utilizing classical substitution and transposition ciphers.
 
-**[Quantum Testing Framework](link-to-repo)**
+**[Quantum Testing Framework](https://github.com/jamesharris1307/QuantumTestingFramework)**
 > An automated framework designed to test probabilistic quantum outputs.
 
-**[Langton's Ant Simulation](link-to-repo)**
+**[Langton's Ant Simulation](https://github.com/jamesharris1307/PRAC1_Langtons_Ant_Simulation_with_Parallelization.git)**
 > A cellular automaton implementation in Java.
 
 
