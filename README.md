@@ -8,7 +8,7 @@ to who I am.
 ### 🚀 Software Engineering Student
 </div>
 
-#### Software Engineering student at **Cardiff Metropolitan University**, currently pursuing a **Bachelor of Science with Honours**.   Currently exploring **C++, Java, Python, Html, CSS and JavaScript**.
+#### Software Engineering student at **Cardiff Metropolitan University**, currently pursuing a **Bachelor of Science with Honours**.
 
 
 <div align="center">
@@ -23,7 +23,6 @@ to who I am.
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
