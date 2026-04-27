@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center"> -->
 
 <!--
 Greeting the User and Brief Introduction
@@ -38,6 +38,8 @@ to who I am.
 ### 📊 Top Languages 📊
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesharris1307&layout=compact&theme=dark)
 
+</div>
+
 ---
 <!--
 Status-Active-brightgreen? | Active = The project is in use or maintained, and may continue to receive updates but isn't actively developed with new features.
@@ -46,11 +48,14 @@ Status-Completed-blue? | Completed = Fully developed and stable, no active devel
 -->
 ### 🌟 Featured Projects 🌟
 
-<!--
+**[Feistel Network Encryption](link-to-repo)**
+> A custom symmetric-key block cipher engine implemented in C++, utilizing classical substitution and transposition ciphers.
 
----
+**[Quantum Testing Framework](link-to-repo)**
+> An automated framework designed to test probabilistic quantum outputs.
 
--->
+**[Langton's Ant Simulation](link-to-repo)**
+> A cellular automaton implementation in Java.
 
 
 
@@ -58,4 +63,4 @@ Status-Completed-blue? | Completed = Fully developed and stable, no active devel
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-harris1307)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamesharris1307)
 
-</div>
+<!-- </div> -->
