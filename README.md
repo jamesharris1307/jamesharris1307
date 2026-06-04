@@ -17,7 +17,7 @@
 
 ### 🚀 Software Engineering Graduate
 
-#### Cardiff Metropolitan University | **BSc (Hons)** Software Engineering | **First Class**
+#### Cardiff Metropolitan University | **BSc (Hons)** Software Engineering | **First Class Degree**
 
 </div>
 
