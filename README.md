@@ -50,17 +50,21 @@
 
 ### Featured Projects
 
-📁 **[Feistel Network Encryption](https://github.com/jamesharris1307/Feistel-Encryption-Decryption-Cipher-C_Plus_Plus.git)** 
-> ![Status-Completed-brightgreen](https://img.shields.io/badge/Status-Completed-blue) <br>
+📁 **[Feistel Network Encryption](https://github.com/jamesharris1307/Feistel-Encryption-Decryption-Cipher-C_Plus_Plus.git)**  
+> ![Status-Completed-blue](https://img.shields.io/badge/Status-Completed-blue) <br>
 > A custom symmetric-key block cipher engine implemented in C++, utilizing classical substitution and transposition ciphers.
 
-📁 **[Quantum Testing Framework](https://github.com/jamesharris1307/QuantumTestingFramework)** 
-> ![Status-Completed-brightgreen](https://img.shields.io/badge/Status-Completed-blue) <br>
+📁 **[Quantum Testing Framework](https://github.com/jamesharris1307/QuantumTestingFramework)**  
+> ![Status-Completed-blue](https://img.shields.io/badge/Status-Completed-blue) <br>
 > An automated framework designed to test probabilistic quantum outputs.
 
-📁 **[Langton's Ant Simulation](https://github.com/jamesharris1307/PRAC1_Langtons_Ant_Simulation_with_Parallelization.git)** 
-> ![Status-Completed-brightgreen](https://img.shields.io/badge/Status-Completed-blue) <br>
+📁 **[Langton's Ant Simulation](https://github.com/jamesharris1307/PRAC1_Langtons_Ant_Simulation_with_Parallelization.git)**  
+> ![Status-Completed-blue](https://img.shields.io/badge/Status-Completed-blue) <br>
 > A cellular automaton implementation in Java featuring multi-threaded parallelization.
+
+📁 **[Leetcode Solutions](https://github.com/jamesharris1307)**  
+> ![Status-In_Progress-orange](https://img.shields.io/badge/Status-In_Progress-orange) <br>
+> A collection of optimized data structures and algorithmic solutions solved in daily practice.
 
 ---
 
