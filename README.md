@@ -48,7 +48,7 @@
 
 ---
 
-Welcome thank you for checking out my profile. My name is James Harris, and I'm a Software Engineer based in Cardiff, Wales.
+Thank you for checking out my profile. My name is James Harris, and I'm a Software Engineer based in Cardiff, Wales.
 
 I believe that the best tool or language is the one that suits the project at hand. In my experience, while syntax changes, the core concepts and architectural paradigms remain consistent. By focusing on these fundamentals, I have been able to utilise a range of languages and tools to complete the projects you can see below.
 
