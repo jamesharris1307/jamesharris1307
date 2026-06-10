@@ -59,7 +59,7 @@ Thanks for stopping by.
 > ![Status-Completed-blue](https://img.shields.io/badge/Status-Completed-blue) <br>
 > A custom symmetric-key block cipher engine implemented in C++, utilizing classical substitution and transposition ciphers.
 
-📁 **[Quantum Testing Framework](https://github.com/jamesharris1307/QuantumTestingFramework)**  
+📁 **[Quantum Testing Framework](https://github.com/jamesharris1307/Quantum-Simulation-Testing-Framework-Python-Pytest-Qiskit)**  
 > ![Status-Completed-blue](https://img.shields.io/badge/Status-Completed-blue) <br>
 > An automated framework designed to test probabilistic quantum outputs.
 
