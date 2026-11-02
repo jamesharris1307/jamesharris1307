@@ -61,7 +61,7 @@ Thanks for stopping by.
 | Quantum Testing Framework | An automated framework designed to test probabilistic quantum outputs. | Python, Pytest, Qiskit | ![Completed](https://img.shields.io/badge/Completed-blue) | [View](https://github.com/jamesharris1307/Quantum-Simulation-Testing-Framework-Python-Pytest-Qiskit) |
 | Langton's Ant Simulation | A cellular automaton implementation featuring multithreaded parallelisation. | Java | ![Completed](https://img.shields.io/badge/Completed-blue) | [View](https://github.com/jamesharris1307/PRAC1_Langtons_Ant_Simulation_with_Parallelization) |
 
-## Developer Tool Projects
+## Developer Tools
 
 | **Name** | **Description** | **Tech** | **Progress** | **Repository** |
 | -------- | --------------- | -------- | ------------ | -------------- |
@@ -90,6 +90,8 @@ Thanks for stopping by.
 
 | **Name** | **Description** | **Tech** | **Progress** | **Repository** |
 | -------- | --------------- | -------- | ------------ | -------------- |
+| Resident Evil 1 Inspired Backrooms Game | A survival horror game inspired by the original Resident Evil, combining atmospheric exploration, fixed-camera perspectives and the liminal environments of the Backrooms. | Godot, GDScript | ![In Progress](https://img.shields.io/badge/In_Progress-orange) | [Proprietary](#) |
+
 
 ## Websites
 
