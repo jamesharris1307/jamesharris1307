@@ -53,23 +53,55 @@ Thanks for stopping by.
 
 ---
 
-### Featured Projects
 
-📁 **[Feistel Network Encryption](https://github.com/jamesharris1307/Feistel-Encryption-Decryption-Cipher-C_Plus_Plus.git)**  
-> ![Status-Completed-blue](https://img.shields.io/badge/Status-Completed-blue) <br>
-> A custom symmetric-key block cipher engine implemented in C++, utilizing classical substitution and transposition ciphers.
+## Research Projects
 
-📁 **[Quantum Testing Framework](https://github.com/jamesharris1307/Quantum-Simulation-Testing-Framework-Python-Pytest-Qiskit)**  
-> ![Status-Completed-blue](https://img.shields.io/badge/Status-Completed-blue) <br>
-> An automated framework designed to test probabilistic quantum outputs.
+| **Name** | **Description** | **Tech** | **Progress** | **Repository** |
+| -------- | --------------- | -------- | ------------ | -------------- |
+| Quantum Testing Framework | An automated framework designed to test probabilistic quantum outputs. | Python, Pytest, Qiskit | ![Completed](https://img.shields.io/badge/Completed-blue) | [View](https://github.com/jamesharris1307/Quantum-Simulation-Testing-Framework-Python-Pytest-Qiskit) |
+| Langton's Ant Simulation | A cellular automaton implementation featuring multithreaded parallelisation. | Java | ![Completed](https://img.shields.io/badge/Completed-blue) | [View](https://github.com/jamesharris1307/PRAC1_Langtons_Ant_Simulation_with_Parallelization) |
 
-📁 **[Langton's Ant Simulation](https://github.com/jamesharris1307/PRAC1_Langtons_Ant_Simulation_with_Parallelization.git)**  
-> ![Status-Completed-blue](https://img.shields.io/badge/Status-Completed-blue) <br>
-> A cellular automaton implementation in Java featuring multi-threaded parallelization.
+## Developer Tool Projects
 
-📁 **[Leetcode Solutions](https://github.com/jamesharris1307)**  
-> ![Status-In_Progress-orange](https://img.shields.io/badge/Status-In_Progress-orange) <br>
-> A collection of optimized data structures and algorithmic solutions solved in daily practice.
+| **Name** | **Description** | **Tech** | **Progress** | **Repository** |
+| -------- | --------------- | -------- | ------------ | -------------- |
+| .DotDiane | A project folder generator for creating structured software and game development projects. | C#, .NET 10 | ![In Progress](https://img.shields.io/badge/In_Progress-orange) | [View](REPOSITORY_URL) |
 
----
+## Desktop Applications
+
+| **Name** | **Description** | **Tech** | **Progress** | **Repository** |
+| -------- | --------------- | -------- | ------------ | -------------- |
+| Infection Tracking System | A desktop application for managing and tracking infection-related information. | Java, Maven | ![Completed](https://img.shields.io/badge/Completed-blue) | [View](https://github.com/jamesharris1307/Infection_Tracking_System_Desktop_Application) |
+
+## Mobile Applications
+
+| **Name** | **Description** | **Tech** | **Progress** | **Repository** |
+| -------- | --------------- | -------- | ------------ | -------------- |
+| Welsh Roots | A mobile application focused on Welsh heritage and family roots. | Java, Android Studio | ![Completed](https://img.shields.io/badge/Completed-blue) | [View](https://github.com/jamesharris1307/Welsh-Roots) |
+
+## Academic Projects
+
+| **Name** | **Description** | **Tech** | **Progress** | **Repository** |
+| -------- | --------------- | -------- | ------------ | -------------- |
+| Feistel Network Encryption | A custom symmetric-key block cipher engine implementing classical substitution and transposition ciphers. | C++ | ![Completed](https://img.shields.io/badge/Completed-blue) | [View](https://github.com/jamesharris1307/Feistel-Encryption-Decryption-Cipher-C_Plus_Plus) |
+
+
+## Game Projects
+
+| **Name** | **Description** | **Tech** | **Progress** | **Repository** |
+| -------- | --------------- | -------- | ------------ | -------------- |
+
+## Websites
+
+| **Name** | **Description** | **Tech** | **Progress** | **Repository** |
+| -------- | --------------- | -------- | ------------ | -------------- |
+| JirH – Personal Portfolio | A personal portfolio website showcasing my software engineering projects, game development, artwork, technical writing and professional background. | HTML, CSS, JavaScript | ![Completed](https://img.shields.io/badge/Completed-blue) | [View](https://github.com/jamesharris1307/jamesharris.dev) · [Live Website](https://jamesharris1307.github.io/jamesharris.dev/home.html) |
+
+
+
+## UI & UX Projects
+
+| **Name** | **Description** | **Tech** | **Progress** | **Repository** |
+| -------- | --------------- | -------- | ------------ | -------------- |
+| Resident Evil 7 Inspired Main Menu | A horror-themed main menu interface inspired by Resident Evil 7, exploring atmospheric UI design, typography, navigation and visual presentation. | Godot, GDScript | ![In Progress](https://img.shields.io/badge/In_Progress-orange) | [View](REPOSITORY_URL) |
 
